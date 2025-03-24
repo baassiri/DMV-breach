@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Env & secrets
+.env
+*.env
+
+# DB and log files
+*.sqlite
+*.mdb
+*.laccdb
+*.log
+nef3a/search_log.txt
+
+# Virtual environment
+venv_nef3a/
