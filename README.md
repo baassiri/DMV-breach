@@ -27,3 +27,11 @@ A Telegram bot that helps search Lebanese vehicle records using:
 ```bash
 git clone https://github.com/baassiri/DMV-breach.git
 cd DMV-breach
+## Create a virtual environment:
+
+python -m venv venv_nef3a
+.\venv_nef3a\Scripts\Activate.ps1
+
+## Install dependencies:
+
+pip install -r requirements.txt
